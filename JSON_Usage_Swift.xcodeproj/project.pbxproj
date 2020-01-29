@@ -16,6 +16,7 @@
 		175C6D5B23E0C9B40013B0C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 175C6D5923E0C9B40013B0C3 /* LaunchScreen.storyboard */; };
 		175C6D6623E0C9B50013B0C3 /* JSON_Usage_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175C6D6523E0C9B50013B0C3 /* JSON_Usage_SwiftTests.swift */; };
 		175C6D7123E0C9B50013B0C3 /* JSON_Usage_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175C6D7023E0C9B50013B0C3 /* JSON_Usage_SwiftUITests.swift */; };
+		175C6D7F23E0D15B0013B0C3 /* DataGetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 175C6D7E23E0D15B0013B0C3 /* DataGetter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		175C6D6C23E0C9B50013B0C3 /* JSON_Usage_SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSON_Usage_SwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		175C6D7023E0C9B50013B0C3 /* JSON_Usage_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSON_Usage_SwiftUITests.swift; sourceTree = "<group>"; };
 		175C6D7223E0C9B50013B0C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		175C6D7E23E0D15B0013B0C3 /* DataGetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataGetter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				175C6D5723E0C9B40013B0C3 /* Assets.xcassets */,
 				175C6D5923E0C9B40013B0C3 /* LaunchScreen.storyboard */,
 				175C6D5C23E0C9B40013B0C3 /* Info.plist */,
+				175C6D7E23E0D15B0013B0C3 /* DataGetter.swift */,
 			);
 			path = JSON_Usage_Swift;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				175C6D4D23E0C9AC0013B0C3 /* AppDelegate.swift in Sources */,
 				175C6D4F23E0C9AC0013B0C3 /* SceneDelegate.swift in Sources */,
+				175C6D7F23E0D15B0013B0C3 /* DataGetter.swift in Sources */,
 				175C6D5123E0C9AC0013B0C3 /* MasterViewController.swift in Sources */,
 				175C6D5323E0C9AC0013B0C3 /* DetailViewController.swift in Sources */,
 			);
